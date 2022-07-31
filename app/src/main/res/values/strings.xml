@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cryptography</string>
+    <string name="decryption">Decryption</string>
+    <string name="encryption">Encryption</string>
+    <string name="cryptography_app">Cryptography App</string>
+    <string name="encrypter">Encrypter</string>
+</resources>
